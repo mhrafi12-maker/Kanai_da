@@ -1,0 +1,19 @@
+{
+  "name": "কানাই দা — কবি, ছোট সিনেমা নির্মাতা",
+  "short_name": "কানাই দা",
+  "description": "কানাই দার কবিতা, ছোট কথা, ছোট সিনেমা ও প্রিয় চিত্রের অনলাইন সংগ্রহ।",
+  "start_url": "https://kanai-da.vercel.app/",
+  "scope": "https://kanai-da.vercel.app/",
+  "display": "standalone",
+  "background_color": "#070707",
+  "theme_color": "#070707",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "https://i.supaimg.com/5279356f-a8e6-4ce6-b452-1f223bcfb816/12799fa5-09e4-4a04-aa8e-88f3738c012a.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
